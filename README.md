@@ -2,4 +2,4 @@
 
 Analysis of eDNA data (demo).
 
-Development by INBO.
+Development by INBO and WWW.
